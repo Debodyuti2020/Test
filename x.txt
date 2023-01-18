@@ -1,1 +1,5 @@
+Git: Creating & Switching Branches In Git | Git Tutorials #15
+Hey everyone welcome, Today we are going to learn how to create and switch branches in Git. So let’s get started. 
 
+What is Branch?
+Branch is a way to add new features or modification to the software and not affecting the main part of the project. We can also say that branches create another line of development in the project.
